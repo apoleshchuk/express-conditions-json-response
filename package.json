@@ -1,0 +1,10 @@
+{
+  "name": "express-conditions-json-response",
+  "version": "0.1.0",
+  "description": "json response in express by json key in query or accept_type application/json header",
+  "main": "index.js",
+  "scripts": {
+  },
+  "author": "Anton Poleshchuk <a.poleshchuk@corp.mail.ru>",
+  "license": "ISC"
+}
